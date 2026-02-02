@@ -43,6 +43,7 @@ This function is designed for real-time testing during on-campus interviews.
 pip install -r requirements.txt
 jupyter notebook dermatology_noisy_labels.ipynb
 
+```
 Author
 
 Yash Kumar
